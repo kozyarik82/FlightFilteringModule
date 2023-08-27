@@ -1,4 +1,4 @@
-package me.kozyarik.testClasses;
+package com.gridnine.testing.testClasses;
 import java.util.List;
 import java.util.stream.Collectors;
 
